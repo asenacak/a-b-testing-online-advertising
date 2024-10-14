@@ -2,7 +2,7 @@
 
 A major company with a large user base is exploring the potential of increasing sales by displaying ads on its website. However, they are uncertain whether these ads effectively drive sales growth. To make data-driven decisions, the company wants to conduct an **A/B test**, a proven method for evaluating the impact of changes by comparing two groups: a control group and a treatment group.
 
-In this experiment, the primary metric being tested is the *conversion rate**, which measures the percentage of users who made a purchase after seeing the ads.
+In this experiment, the primary metric being tested is the **conversion rate**, which measures the percentage of users who made a purchase.
 
 The A/B test was conducted over a 30-day period with 20,000 customers:
 
